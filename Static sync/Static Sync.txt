@@ -1,0 +1,5 @@
+two threads working on an objet 
+another two threds working on another object 
+multiple objects will have problem with synchronization
+use static resource and static synchronized
+now class level Lock will be implemented
